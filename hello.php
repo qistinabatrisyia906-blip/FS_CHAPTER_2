@@ -47,7 +47,7 @@ define("TAX_RATE", 0.06); //6% Sales tax
 
 //2.declaring variables (can change)
 $itemName = "Laptop";
-$price = 10;
+$price = 20;
 
 
 
